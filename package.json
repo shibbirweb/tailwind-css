@@ -1,0 +1,26 @@
+{
+  "name": "tailwind-css",
+  "version": "1.0.0",
+  "description": "Tailwind CSS Practice",
+  "main": "index.js",
+  "scripts": {
+    "build": "postcss css/tailwind.css -o public/build/tailwind.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shibbirweb/tailwind-css.git"
+  },
+  "keywords": [],
+  "author": "MD. Shibbir Ahmed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shibbirweb/tailwind-css/issues"
+  },
+  "homepage": "https://github.com/shibbirweb/tailwind-css#readme",
+  "dependencies": {
+    "autoprefixer": "^10.0.1",
+    "postcss": "^8.1.6",
+    "postcss-cli": "^8.2.0",
+    "tailwindcss": "^1.9.6"
+  }
+}
