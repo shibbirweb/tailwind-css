@@ -1,2 +1,2 @@
-# tailwind-css
+# Tailwind CSS
 Tailwind CSS Practice
